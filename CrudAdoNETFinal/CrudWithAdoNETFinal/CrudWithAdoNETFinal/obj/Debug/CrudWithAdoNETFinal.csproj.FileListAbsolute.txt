@@ -1,0 +1,11 @@
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudAdoNETFinal\CrudWithAdoNETFinal\CrudWithAdoNETFinal\bin\Debug\CrudWithAdoNETFinal.exe.config
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudAdoNETFinal\CrudWithAdoNETFinal\CrudWithAdoNETFinal\bin\Debug\CrudWithAdoNETFinal.exe
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudAdoNETFinal\CrudWithAdoNETFinal\CrudWithAdoNETFinal\bin\Debug\CrudWithAdoNETFinal.pdb
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudAdoNETFinal\CrudWithAdoNETFinal\CrudWithAdoNETFinal\obj\Debug\CrudWithAdoNETFinal.csproj.AssemblyReference.cache
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudAdoNETFinal\CrudWithAdoNETFinal\CrudWithAdoNETFinal\obj\Debug\CrudWithAdoNETFinal.frmNuevo.resources
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudAdoNETFinal\CrudWithAdoNETFinal\CrudWithAdoNETFinal\obj\Debug\CrudWithAdoNETFinal.frmPersonas.resources
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudAdoNETFinal\CrudWithAdoNETFinal\CrudWithAdoNETFinal\obj\Debug\CrudWithAdoNETFinal.Properties.Resources.resources
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudAdoNETFinal\CrudWithAdoNETFinal\CrudWithAdoNETFinal\obj\Debug\CrudWithAdoNETFinal.csproj.GenerateResource.cache
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudAdoNETFinal\CrudWithAdoNETFinal\CrudWithAdoNETFinal\obj\Debug\CrudWithAdoNETFinal.csproj.CoreCompileInputs.cache
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudAdoNETFinal\CrudWithAdoNETFinal\CrudWithAdoNETFinal\obj\Debug\CrudWithAdoNETFinal.exe
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudAdoNETFinal\CrudWithAdoNETFinal\CrudWithAdoNETFinal\obj\Debug\CrudWithAdoNETFinal.pdb
